@@ -1,0 +1,2 @@
+# esittir-operatoru
+esittir operatoru
