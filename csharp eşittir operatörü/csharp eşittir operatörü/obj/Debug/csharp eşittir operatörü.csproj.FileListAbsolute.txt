@@ -1,0 +1,8 @@
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp eşittir operatörü\csharp eşittir operatörü\bin\Debug\csharp eşittir operatörü.exe.config
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp eşittir operatörü\csharp eşittir operatörü\bin\Debug\csharp eşittir operatörü.exe
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp eşittir operatörü\csharp eşittir operatörü\bin\Debug\csharp eşittir operatörü.pdb
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp eşittir operatörü\csharp eşittir operatörü\obj\Debug\csharp eşittir operatörü.csproj.AssemblyReference.cache
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp eşittir operatörü\csharp eşittir operatörü\obj\Debug\csharp eşittir operatörü.csproj.SuggestedBindingRedirects.cache
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp eşittir operatörü\csharp eşittir operatörü\obj\Debug\csharp eşittir operatörü.csproj.CoreCompileInputs.cache
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp eşittir operatörü\csharp eşittir operatörü\obj\Debug\csharp eşittir operatörü.exe
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp eşittir operatörü\csharp eşittir operatörü\obj\Debug\csharp eşittir operatörü.pdb
